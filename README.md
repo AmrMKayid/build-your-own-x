@@ -124,7 +124,7 @@
 #### Build your own `Docker`
 
 - [ ] [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-- [ ] [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
+- [x] [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
 - [ ] [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 - [ ] [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
 - [ ] [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
